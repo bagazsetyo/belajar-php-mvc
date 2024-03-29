@@ -1,0 +1,17 @@
+{
+    "name": "bagasfrzetyo/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "Bagasfrzetyo\\PhpMvc\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "bagaz",
+            "email": "bagazfrazetyo@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8"
+    }
+}
